@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+  align-items: center;
+  background-color: #f55a5a;
+  box-shadow: 0 2px 5px #7a6767;
+  color: #f0f8ff;
+  display: flex;
+  height: 65px;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+}
