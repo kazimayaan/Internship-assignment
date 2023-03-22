@@ -22,3 +22,12 @@ header{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 10px;
 }
+.editor--div{
+
+  height: 500px;
+  width : 500px;
+  border: 10px;
+ margin : auto;
+ border-radius : 10px;
+ 
+}
