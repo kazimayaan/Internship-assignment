@@ -7,7 +7,7 @@ export default function Header(){
         <header>
 
         <div className = "Header">
-            <h1>Text Editor</h1>
+            <h1>Text Editor By Kazim </h1>
         </div>
         </header>
     )
