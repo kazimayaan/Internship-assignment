@@ -29,5 +29,27 @@ header{
   border: 10px;
  margin : auto;
  border-radius : 10px;
- 
+
+}
+main{
+  border : 10px solid black;
+  height: 100%;
+  width: 100%;
+}
+main {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(1, 0, 0);
+  border-radius: 10px;
+}
+button {
+  border: none;
+  color: #131c35;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: transparent;
+  padding: 10px 16px;
+  border-radius: 3px;
+  cursor: pointer;
+  user-select: none;
 }
